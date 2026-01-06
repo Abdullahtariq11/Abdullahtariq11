@@ -1,5 +1,3 @@
----
-
 # 🚀 Abdullah Tariq
 
 **Software Test Engineer II | Full-Stack Developer** *Building scalable, well-tested applications with a focus on clean architecture and seamless UX.*
