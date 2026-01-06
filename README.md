@@ -1,7 +1,3 @@
-Since we are currently building **BrokeTogether** (the Spring Boot + React Native version of your expense tracker), we should update your README to reflect this shift towards **Cross-Platform Mobile Development**, **Spring Boot microservices**, and **Test-Driven Development (TDD)**.
-
-Here is a modern, polished version of your README that highlights your transition from a Test Engineer to a full-stack Developer who values architecture and testing.
-
 ---
 
 # 🚀 Abdullah Tariq
